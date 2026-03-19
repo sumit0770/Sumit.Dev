@@ -1,4 +1,4 @@
-# Sumit Portfolio (MERN)
+# Sumit Portfolio 
 
 ## Folder Structure
 
@@ -32,7 +32,5 @@ sumit_portfolio/
 - `GET /api/experience`
 - `POST /api/contact`
 
-## Ports
-
-- Frontend: `http://localhost:5173`
-- Backend: `http://localhost:5000`
+## Deployed Link 
+https://sumit-dev-1-svti.onrender.com/
